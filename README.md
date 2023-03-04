@@ -27,7 +27,7 @@ Revenue Generation
 # Use Case Diagram
 ![image](https://user-images.githubusercontent.com/53271193/222927243-38b545d5-973e-4b6f-ad97-abb1f1c721ad.png)
 
-<img width="720" alt="image" src="https://user-images.githubusercontent.com/53271193/222927292-0003e2ed-b82b-4716-8d49-7d11011b388f.png">
+
 
 
 
