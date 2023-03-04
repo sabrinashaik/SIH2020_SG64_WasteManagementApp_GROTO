@@ -12,16 +12,16 @@ Revenue Generation
 #3 users roles supported
 
 # CUSTOMER 
-    -Categorizing waste type for better dealing
-		- Driver’s Live Location Tracking
-		- Scheduling Pickup service
+-Categorizing waste type for better dealing
+- Driver’s Live Location Tracking
+- Scheduling Pickup service
 # ADMINISTRATOR
-          - Authenticated Drivers 
-		      - Accepting or Rejecting drivers application
-		      - Add GROTO coins into drivers wallet
+- Authenticated Drivers 
+- Accepting or Rejecting drivers application
+- Add GROTO coins into drivers wallet
 # DRIVER
-     - Accepting or Requesting a pickup
-	   - Confirming a pickup after the service
+- Accepting or Requesting a pickup
+- Confirming a pickup after the service
 
 ![image](https://user-images.githubusercontent.com/53271193/222927224-460fe90b-9e03-470f-8f8b-f4e3f7c7dcb1.png)
 # Use Case Diagram
